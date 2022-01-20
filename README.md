@@ -20,5 +20,5 @@ Step 3:
 
 - All purchased players will be available in the bought.json file
 
-NOTE:
+*NOTE:*
 - Script needs to be opened at all times otherwise the player will not be logged and they will be sent to the back of your club!
